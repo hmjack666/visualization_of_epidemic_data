@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>今日发生疫情省份统计</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+
+  <!-- 引入 ECharts 文件 -->
+  <script src="static/assets/js/echarts.min.js"></script>
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i,900" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="static/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="static/assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="static/assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="container">
+
+      <div class="logo float-left">
+        <h1 class="text-light"><a href="{{ url_for('index') }}"><span>Maverick</span></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="static/assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      </div>
+
+      <nav class="nav-menu float-right d-none d-lg-block">
+        <ul>
+          <li><a href="/">首页</a></li>
+          <li><a href="/movie">疫情可视化动画展示</a></li>
+          <li><a href="/map">中国新冠疫情实时数据地图</a></li>
+          <li><a href="/pie">今日发生疫情省份统计</a></li>
+          <li><a href="/rank">各省累计确诊排名</a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+
+    </div>
+  </header><!-- End Header -->
+
+    <!-- ======= 评分图展示 ======= -->
+    <section id="team" class="team">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>今日发生疫情地区</h2>
+          <p>应用Python爬虫、Flask框架、Echarts等技术实现.</p>
+        </div>
+
+          <!-- ======= 预览板块 ======= -->
+        <section class="counts section-bg">
+            <div class="container">
+          <!-- 为 ECharts 准备一个具备大小（宽高）的 DOM -->
+          <div id="dom1" style="width: 98%;height:400px;"></div>
+            </div>
+        </section><!-- End Counts Section -->
+      </div>
+    </section><!-- 结束 首页 -->
+
+
+    <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="container">
+      <div class="copyright">Copyright &copy; 2020.Company name All rights reserved.</div>
+      <div class="credits"></div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="static/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="static/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+<!--  <script src="static/assets/vendor/php-email-form/validate.js"></script>-->
+  <script src="static/assets/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="static/assets/vendor/venobox/venobox.min.js"></script>
+  <script src="static/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="static/assets/vendor/counterup/counterup.min.js"></script>
+  <script src="static/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="static/assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="static/assets/js/main.js"></script>
+
+    <script type="text/javascript">
+
+      console.log({{ today_confirm|tojson }})
+
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('dom1'));
+
+        // 指定图表的配置项和数据
+        option = {
+            color: [
+                '#006cff', '#60cda0', '#ed8884', '#ff9f7f', '#0096ff', '#9fe6b8', '#32c5e9', '#1d9dff',
+                '#006cff', '#60cda0', '#ed8884', '#ff9f7f', '#0096ff', '#9fe6b8', '#32c5e9', '#1d9dff',
+                '#006cff', '#60cda0', '#ed8884', '#ff9f7f', '#0096ff', '#9fe6b8', '#32c5e9', '#1d9dff',
+                '#006cff', '#60cda0', '#ed8884', '#ff9f7f', '#0096ff', '#9fe6b8', '#32c5e9', '#1d9dff',
+                '#006cff', '#60cda0', '#ed8884', '#ff9f7f', '#0096ff', '#9fe6b8', '#32c5e9', '#1d9dff',
+                '#006cff', '#60cda0', '#ed8884', '#ff9f7f', '#0096ff', '#9fe6b8', '#32c5e9', '#1d9dff'
+            ],
+            legend: {
+                top: 'bottom',
+                textStyle: {
+                    fontSize: 10,
+                    color: '#000',
+                }
+            },
+            tooltip: {
+                trigger: 'item',
+                formatter: '{a} <br/>{b} : {c} ({d}%)'
+            },
+            series: [
+                {
+                    name: '发生疫情省份',
+                    type: 'pie',
+                    radius: ['20%', '50%'],
+                    center: ['50%', '50%'],
+                    roseType: 'radius',
+                    itemStyle: {
+                        borderRadius: 8
+                    },
+                    data: {{ today_confirm|tojson }},
+                }
+            ]
+        };
+        //3.赋值组件给对象
+        myChart.setOption(option);
+        //4.屏幕跟着自适应
+        window.addEventListener("resize", function () {
+            myChart.resize();
+        });
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+</body>
+
+</html>

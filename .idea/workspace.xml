@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fa9f84e-8710-4c1b-abdb-b50598d5fef7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="movie250" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fsspec</find>
+      <find>movies</find>
+      <find>score1</find>
+      <find>title-in</find>
+      <find>map</find>
+      <find>score</find>
+      <find>num</find>
+      <find>echarts</find>
+      <find>vendor</find>
+      <find>img</find>
+      <find>container</find>
+      <find>echart</find>
+      <find>php-email-form</find>
+      <find>fff</find>
+      <find>animation</find>
+      <find>plt</find>
+      <find>color</find>
+      <find>china_today_data.csv</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/1_corona_virus_spider.py" />
+        <option value="$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/2_corona_virus_spider.py" />
+        <option value="$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/3_corona_virus_spider.py" />
+        <option value="$PROJECT_DIR$/demo/flask.py" />
+        <option value="$PROJECT_DIR$/demo/templates/score.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/movie_list.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/score.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/china_today_data_csv_to_flask.py" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/movie2.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/china_today_data.py" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/china_data.py" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/index.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/map.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/movie.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/pie.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/rank.html" />
+        <option value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/app.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="930" />
+    <option name="y" value="18" />
+    <option name="width" value="981" />
+    <option name="height" value="1065" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="visualization_of_epidemic_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualization_of_epidemic_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visualization_of_epidemic_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualization_of_epidemic_data" type="462c0819:PsiDirectoryNode" />
+              <item name="Visualization_situation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visualization_of_epidemic_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualization_of_epidemic_data" type="462c0819:PsiDirectoryNode" />
+              <item name="Visualization_situation" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visualization_of_epidemic_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualization_of_epidemic_data" type="462c0819:PsiDirectoryNode" />
+              <item name="Visualization_situation" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visualization_of_epidemic_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualization_of_epidemic_data" type="462c0819:PsiDirectoryNode" />
+              <item name="Visualization_situation" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="data_visualization" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\visualization_of_epidemic_data\Visualization_situation\project\data_visualization\templates" />
+      <recent name="C:\Users\DELL\Desktop\visualization_of_epidemic_data\Visualization_situation\project\data_visualization" />
+      <recent name="C:\Users\DELL\Desktop\visualization_of_epidemic_data\Visualization_situation\project\data_visualization\static\assets\js" />
+      <recent name="C:\Users\DELL\Desktop\visualization_of_epidemic_data\demo\static\assets\js" />
+      <recent name="C:\Users\DELL\Desktop\visualization_of_epidemic_data\Visualization_situation\project\data_visualization\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\visualization_of_epidemic_data\Visualization_situation\project\data_visualization\static\movies" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.china_data">
+    <configuration name="08_解析最新各国疫情数据数据中的json字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="visualization-of-epidemic-data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Visualization_situation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Visualization_situation/08_解析最新各国疫情数据数据中的json字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="visualization-of-epidemic-data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Visualization_situation/project/data_visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="china_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="visualization-of-epidemic-data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Visualization_situation/project/data_visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/china_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="china_today_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="visualization-of-epidemic-data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Visualization_situation/project/data_visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DELL\Desktop\大数据可视化\visualization_of_epidemic_data\Visualization_situation\project\data_visualization\china_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="china_today_data_csv_to_flask" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="visualization-of-epidemic-data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Visualization_situation/project/data_visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Visualization_situation/project/data_visualization/china_today_data_csv_to_flask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.china_data" />
+        <item itemvalue="Python.china_today_data" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.china_today_data_csv_to_flask" />
+        <item itemvalue="Python.08_解析最新各国疫情数据数据中的json字符串" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa9f84e-8710-4c1b-abdb-b50598d5fef7" name="Default Changelist" comment="" />
+      <created>1624178350147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624178350147</updated>
+      <workItem from="1624178351576" duration="5728000" />
+      <workItem from="1624190673332" duration="1196000" />
+      <workItem from="1624193063342" duration="75000" />
+      <workItem from="1624193240682" duration="1379000" />
+      <workItem from="1624248109738" duration="620000" />
+      <workItem from="1624260226715" duration="8824000" />
+      <workItem from="1624274600751" duration="14997000" />
+      <workItem from="1624321027217" duration="620000" />
+      <workItem from="1624350922741" duration="2095000" />
+      <workItem from="1624366644617" duration="703000" />
+      <workItem from="1624587783238" duration="7959000" />
+      <workItem from="1624712191157" duration="39000" />
+      <workItem from="1624889484556" duration="1633000" />
+      <workItem from="1624891537943" duration="2267000" />
+      <workItem from="1625038135882" duration="628000" />
+      <workItem from="1625039348512" duration="595000" />
+      <workItem from="1625214287975" duration="3385000" />
+      <workItem from="1625224031303" duration="2254000" />
+      <workItem from="1627792215185" duration="2753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57750000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="620" y="12" width="654" height="710" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5520134" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294702" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.08635578" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900663" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004042" side_tool="true" weight="0.35596028" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3294702" />
+      <window_info anchor="bottom" id="Jupyter" order="11" sideWeight="0.4995958" weight="0.2268212" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3294702" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2497979" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32983023" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$china_data.coverage" NAME="china_data Coverage Results" MODIFIED="1627792494038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation/project/data_visualization" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$2_corona_virus_spider.coverage" NAME="2_corona_virus_spider Coverage Results" MODIFIED="1624179420111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation/疫情爬虫项目" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$01_requests_.coverage" NAME="01_requests_获取丁香园疫情首页 Coverage Results" MODIFIED="1624178465410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$flaskDemo.coverage" NAME="flaskDemo Coverage Results" MODIFIED="1624180671365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$china_today_data.coverage" NAME="china_today_data Coverage Results" MODIFIED="1624889757319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation/project/data_visualization" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$03_BeautifulSoup_.coverage" NAME="03_BeautifulSoup_提取各国疫情数据 Coverage Results" MODIFIED="1624178591067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$08_json.coverage" NAME="08_解析最新各国疫情数据数据中的json字符串 Coverage Results" MODIFIED="1624184079792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$flask.coverage" NAME="flask Coverage Results" MODIFIED="1624180595446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$china_today_data_csv_to_flask.coverage" NAME="china_today_data_csv_to_flask Coverage Results" MODIFIED="1624287719270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation/project/data_visualization" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$04_.coverage" NAME="04_正则常用语法 Coverage Results" MODIFIED="1624184065286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$3_corona_virus_spider.coverage" NAME="3_corona_virus_spider Coverage Results" MODIFIED="1624180485315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation/疫情爬虫项目" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$1_corona_virus_spider.coverage" NAME="1_corona_virus_spider Coverage Results" MODIFIED="1624179307236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation/疫情爬虫项目" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$app.coverage" NAME="app Coverage Results" MODIFIED="1624351282218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation/project/data_visualization" />
+    <SUITE FILE_PATH="coverage/visualization_of_epidemic_data$02_Beautiful_.coverage" NAME="02_Beautiful_练习模块 Coverage Results" MODIFIED="1624178564323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Visualization_situation" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/note/几个常规库使用方法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2622" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/1_corona_virus_spider.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/3_corona_virus_spider.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/2_corona_virus_spider.py" />
+    <entry file="file://$PROJECT_DIR$/demo/flaskDemo.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/data/last_day_corona_virus_of_china.json" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/data/last_day_corona_virus.json" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/data/corona_virus_of_china.json" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/data/corona_virus.json" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/07_json转python.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/04_正则常用语法.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/data_visualization/Coronavirus_Top10_province.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/疫情爬虫项目/data_visualization/Coronavirus_Top15_Countries.ipynb" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/06_提取最新的各国疫情数据的json字符串.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/08_解析最新各国疫情数据数据中的json字符串.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/02_Beautiful_练习模块.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/03_BeautifulSoup_提取各国疫情数据.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data/corona_virus_of_china.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/疫情爬虫项目思路.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-456" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/templates/temp.html" />
+    <entry file="file://$PROJECT_DIR$/demo/templates/word.html" />
+    <entry file="file://$PROJECT_DIR$/demo/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/demo/templates/movie.html" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/movie_list.html" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/static/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/app.py" />
+    <entry file="file://$PROJECT_DIR$/demo/static/assets/js/echarts.min.js" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/static/assets/js/china.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/templates/score.html" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/01_requests_获取丁香园疫情首页.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/china_today_data_csv_to_flask.py" />
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/3_corona_virus_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1540">
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/2_corona_virus_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1236">
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/1_corona_virus_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/Coronavirus_Top10_province.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/Coronavirus_Top15_Countries.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/movie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/pie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data/china_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/templates/rank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3211">
+          <caret line="169" column="17" selection-start-line="169" selection-start-column="17" selection-end-line="169" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/china_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Visualization_situation/project/data_visualization/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
